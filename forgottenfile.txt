@@ -1,3 +1,8 @@
 forgotten file
+<<<<<<< HEAD
 more text on the forgotten file
 this is testing branch stuff
+=======
+what is that testing balderdash?
+This is the MASTER BRANCH. Bow before me!
+>>>>>>> testing_3
